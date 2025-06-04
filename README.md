@@ -45,11 +45,10 @@ Where:
 ---
 
 ## 📁 File Structure
-Fama-French-Dashboard/
-├── main.py # Streamlit or Dash web app
-├── rets.csv # Portfolio/stock returns
-├── smb.csv # Size (SMB) factor returns
-├── sp500.csv # Benchmark (S&P 500) returns
-├── requirements.txt # Python dependencies
-└── README.md # This file
 
+- `main.py`: The main web application script (Streamlit or Dash)
+- `rets.csv`: Asset or strategy return data
+- `smb.csv`: Size factor (SMB) returns
+- `sp500.csv`: Benchmark returns (S&P 500)
+- `requirements.txt`: Python dependencies
+- `README.md`: Project documentation
