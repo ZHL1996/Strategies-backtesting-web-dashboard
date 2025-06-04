@@ -40,7 +40,7 @@ Where:
 - 🔧 **Custom Settings**:
   - Rebalancing frequency (monthly, quarterly)
   - Factor ranking thresholds (e.g., top 30% value)
-  - Investment universe filters (e.g., S&P 500, Russell 1000)
+  - Investment universe filters (e.g., S&P 500)
 
 ---
 
