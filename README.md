@@ -21,10 +21,10 @@ R_i - R_f = \alpha + \beta_{MKT}(R_m - R_f) + \beta_{SMB} \cdot \text{SMB} + \be
 \]
 
 Where:
-- \(R_i\): Asset return
-- \(R_f\): Risk-free rate
-- \(R_m\): Market return
-- **SMB**: Small minus big (Size effect)
+- \(R_i\): Asset return  
+- \(R_f\): Risk-free rate  
+- \(R_m\): Market return  
+- **SMB**: Small minus big (Size effect)  
 - **HML**: High minus low (Value effect)
 
 ---
@@ -52,3 +52,19 @@ Where:
 - `sp500.csv`: Benchmark returns (S&P 500)
 - `requirements.txt`: Python dependencies
 - `README.md`: Project documentation
+
+---
+
+## 👤 Author
+
+**Zhuohang Li**  
+Quant Portfolio Manager & PhD Candidate  
+📧 zhuohang.li@edhec.com  
+[LinkedIn](https://www.linkedin.com/in/goethe-uni-zhuohang-li/?locale=en_US)
+
+---
+
+## 📄 License
+
+MIT License — for academic and non-commercial use with proper attribution.
+
